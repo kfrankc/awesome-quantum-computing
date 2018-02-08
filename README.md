@@ -13,6 +13,8 @@
 ## Professors
 
 * [Scott Aaronson](https://www.scottaaronson.com/) - Author of [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
+* [John Preskill](http://www.theory.caltech.edu/~preskill/) - Founded [Institute for Quantum Information (IQI)](http://www.iqi.caltech.edu/index.html)
+* [Peter Shor](http://www-math.mit.edu/~shor/) - [Shor's Algorithm](https://www.wikiwand.com/en/Shor%27s_algorithm), a quantum algorithm for factoring exponentially faster than best currently-known algorithms running on classical computer.
 
 ## Industry Leaders
 
