@@ -10,6 +10,7 @@
 - [Industry Leaders](#industry-leaders)
 - [Resources](#resources)
 	- [Development](#development)
+	- [Textbooks](#textbooks)
 
 ## Professors
 
@@ -17,6 +18,7 @@
 * [John Preskill](http://www.theory.caltech.edu/~preskill/) - Founded [Institute for Quantum Information (IQI)](http://www.iqi.caltech.edu/index.html)
 * [Peter Shor](http://www-math.mit.edu/~shor/) - [Shor's Algorithm](https://www.wikiwand.com/en/Shor%27s_algorithm), a quantum algorithm for factoring exponentially faster than best currently-known algorithms running on classical computer.
 * [David Deutsch](http://www.daviddeutsch.org.uk/) - pioneered the field of quantum computation by forumating description for [quantum Turing machine](https://www.wikiwand.com/en/Quantum_Turing_machine).
+* [Robert Schoelkopf](https://rsl.yale.edu/node/148) - Director of Yale Quantum Institute and founder of [Quantum Circuits Inc](http://quantumcircuits.com/)
 
 ## Industry Leaders
 
@@ -37,4 +39,10 @@
 * [Quantum Computation and Quantum Information](https://books.google.com/books?id=-s4DEy7o-a0C&hl=en)
 * [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
 * [Classical and Quantum Computation](https://books.google.com/books?id=qYHTvHPvmG8C&dq=isbn:0821832298&hl=en&sa=X&ved=0ahUKEwjK1rzopJjZAhUnrlQKHWivD5kQ6AEIKTAA)
+
+### Other
+
+* [Meet the meQuanics](http://www.h-bar.com.au/meet-the-mequanics/) - a weekly podcast on quantum physics and quantum technology!
+* [CMU Quantum Computation and Information course](https://www.cs.cmu.edu/~odonnell/quantum15/)
+* [Quantum Chemistry and Spectroscopy Youtube Videos](https://www.youtube.com/playlist?list=PLm8ZSArAXicL3jKr_0nHHs5TwfhdkMFhh)
 
