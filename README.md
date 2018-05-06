@@ -25,6 +25,8 @@
 * [Chad Rigetti](https://medium.com/@chadrigetti) - CEO of [Rigetti Computing](https://rigetti.com/)
 * [Todd Holmdahl](https://www.microsoft.com/en-us/research/people/toddhol/) - Corporate Vice President of [Microsoft Quantum](https://www.microsoft.com/en-us/research/lab/quantum/)
 * [Krysta Svore](https://www.microsoft.com/en-us/research/people/ksvore/) - Lead Microsoft Quantum - Redmond (QuArC) group at MSR.
+* [Julie Love](https://www.linkedin.com/in/jhlove/) - Director of Quantum Computing at Microsoft.
+* [Dave Bacon](https://research.google.com/pubs/105078.html) - Software Engineering Lead at Google Quantum Cloud - Seattle
 
 ## Resources
 
